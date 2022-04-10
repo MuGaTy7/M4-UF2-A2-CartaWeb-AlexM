@@ -10,8 +10,6 @@
             <item>img/gluten.png</item>
             <item>img/huevos.png</item>
             <item>img/lacteos.png</item>
-            
-           
         </ingredientes>
     </plato>
     <plato tipo="entrantes">
@@ -42,12 +40,9 @@
         <descripcion>Cubos de patata agria frita al momento con salsa alioli, alioli con albahaca y salsa picante con chipotle</descripcion>
         <calorias>261 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
         </ingredientes>
     </plato>
     <plato tipo="entrantes">
@@ -56,12 +51,10 @@
         <descripcion>Base de maíz con frijol, aguacate, y queso ricotta. Opción de cochinita pibil</descripcion>
         <calorias>199 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
+            <item>img/frutos_secos.png</item>
         </ingredientes>
     </plato>
     <plato tipo="entrantes">
@@ -70,12 +63,8 @@
         <descripcion>Tortilla enrollada y frita de maíz rellena de pollo con una cama de frijol refrito, aguacate, lechuga, pollo, queso, salsa verde y crema ácida</descripcion>
         <calorias>233 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
         </ingredientes>
     </plato>
     <!--******************************************-->
@@ -86,12 +75,6 @@
         <descripcion>Ensalada de verduras troceadas muy pequeñas con salsa ácida y un toque de limón.</descripcion>
         <calorias>322 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
         </ingredientes>
     </plato>
     <plato tipo="ensaladas">
@@ -100,12 +83,6 @@
         <descripcion>Platillo frío elaborado con lechuga y pan tostado, aderezado con una mezcla de ajo, aceite de oliva, anchoas, huevo duro y queso parmesano.</descripcion>
         <calorias>306 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
         </ingredientes>
     </plato>
     <!--**********************************-->
@@ -116,12 +93,8 @@
         <descripcion>Tortilla de harina, arrachera a la plancha, aguacate y queso</descripcion>
         <calorias>203 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
         </ingredientes>
     </plato>
     <plato tipo="tacos">
@@ -130,12 +103,9 @@
         <descripcion>Tortilla de maíz, lomo de dos colores adoboda en salsa pastor, cebolla, cilantro y piña al gusto</descripcion>
         <calorias>182 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+             <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/frutos_secos.png</item>
         </ingredientes>
     </plato>
     <plato tipo="tacos">
@@ -144,12 +114,7 @@
         <descripcion>Tortilla de harina, lomo de dos colores adobado y queso</descripcion>
         <calorias>208 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>img/gluten.png</item>
         </ingredientes>
     </plato>
     <plato tipo="tacos">
@@ -158,12 +123,8 @@
         <descripcion>Tortilla de harina, lomo de dos colores adobado, arrachera a la pancha, queso y aguacate</descripcion>
         <calorias>158 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
         </ingredientes>
     </plato>
     <plato tipo="tacos">
@@ -172,12 +133,9 @@
         <descripcion>Tortilla de maíz, pollo cocinado a baja temperatura durante 5 horas demenuzado en salsa de tinga (cebolla macerada, tomate y caldo de pollo)</descripcion>
         <calorias>174 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/lacteos.png</item>
         </ingredientes>
     </plato>
     <plato tipo="tacos">
@@ -186,12 +144,8 @@
         <descripcion>Tortilla de maíz, ternera cocinada en su sala durante 24 horas a baja temperatura con cilantro y cebolla</descripcion>
         <calorias>234 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
         </ingredientes>
     </plato>
     <plato tipo="tacos">
@@ -200,12 +154,9 @@
         <descripcion>Tortilla de maíz y cerdo en deshebrado en salsa yucateca</descripcion>
         <calorias>230 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/frutos_secos.png</item>
         </ingredientes>
     </plato>
     <plato tipo="tacos">
@@ -214,12 +165,10 @@
         <descripcion>Tortilla de maíz, pollo en salsa de mole y sésamo</descripcion>
         <calorias>221 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/frutos_secos.png</item>
+            <item>img/lacteos.png</item>
         </ingredientes>
     </plato>
     <!--****************************-->
@@ -230,12 +179,7 @@
         <descripcion>Tortilla de harina, queso fundido con chorizo</descripcion>
         <calorias>295 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>img/gluten.png</item>
         </ingredientes>
     </plato>
     <plato tipo="los_especiales">
@@ -244,12 +188,9 @@
         <descripcion>Tortilla de harina con queso, lomo de dos colores, bacon, pimiento rojo, verde y cebolla</descripcion>
         <calorias>300 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/frutos_secos.png</item>
         </ingredientes>
     </plato>
     <plato tipo="los_especiales">
@@ -258,12 +199,10 @@
         <descripcion>Tortilla de maíz, camarón en tempura, pico de gallo, col, aguacte y salsa mango-curry</descripcion>
         <calorias>267 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>img/gluten.png</item>
+            <item>img/huevos.png</item>
+            <item>img/pescado.png</item>
+            <item>img/marisco.png</item>
         </ingredientes>
     </plato>
     <plato tipo="los_especiales">
@@ -272,9 +211,8 @@
         <descripcion>Tortilla de maíz, finas tiras de lechuga pico de gallo, pescado emperador capeado con aderezo de chipotle y salsa de tamarindo</descripcion>
         <calorias>268 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
+            <item>img/gluten.png</item>
+            <item>img/pescado.png</item>
         </ingredientes>
     </plato>
     <!--***************************-->
@@ -285,12 +223,7 @@
         <descripcion>De Limón, Jamaica, Tamarindo, Mango, Coco y Fresa</descripcion>
         <calorias>163 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>¡Solo permitida para mayores de 18 años!</item>
         </ingredientes>
     </plato>
     <plato tipo="combinados">
@@ -299,12 +232,7 @@
         <descripcion>De Limón, Jamaica, Tamarindo, Mango, Coco y Fresa</descripcion>
         <calorias>159 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>¡Solo permitida para mayores de 18 años!</item>
         </ingredientes>
     </plato>
     <plato tipo="combinados">
@@ -313,12 +241,7 @@
         <descripcion>Tequila con sangrita (jugo de tomate, tabasco y maggi) y limón</descripcion>
         <calorias>102 kcal</calorias>
         <ingredientes>
-            <item>gluten</item>
-            <item>huevo</item>
-            <item>lacteos</item>
-            <item>pescado</item>
-            <item>frutos secos</item>
-            <item>citricos</item>
+            <item>¡Solo permitida para mayores de 18 años!</item>
         </ingredientes>
     </plato>
 </menu>

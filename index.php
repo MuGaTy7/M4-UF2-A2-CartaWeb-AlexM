@@ -50,29 +50,29 @@
             echo '<br>';
         }
     }
-    echo '<h1>Ensaladas:</h1>';
-    foreach($menu->plato as $plato){
-        if($plato['tipo']=='ensaladas'){
-            echo '<div class="cuadro_rojo">';
-            echo '<b>'.$plato->nombre.'</b>  ------------------------------  <b>'.$plato->precio.'</b><br>';
-            echo $plato->descripcion;
-            echo $plato->calorias;
-            foreach($plato->ingredientes->item as $item) {
-                echo "<img class='alimentos' src=".$item." alt=''>";
-            }
-            echo '</div>';
-            echo '<br>';
-        }
-    }
+    // echo '<h1>Ensaladas:</h1>';
+    // foreach($menu->plato as $plato){
+    //     if($plato['tipo']=='ensaladas'){
+    //         echo '<div class="cuadro_rojo">';
+    //         echo '<b>'.$plato->nombre.'</b>  ------------------------------  <b>'.$plato->precio.'</b><br>';
+    //         echo $plato->descripcion;
+    //         echo $plato->calorias;
+    //         foreach($plato->ingredientes->item as $item) {
+    //             echo "<img class='alimentos' src=".$item." alt=''>";
+    //         }
+    //         echo '</div>';
+    //         echo '<br>';
+    //     }
+    // }
     echo '</div>';
-    echo '<div style="margin-left: 4%;" class="column-30">';
+    echo '<div class="column-30-margin">';
     echo '<h1 style="margin-top: 55px;">Tacos:</h1>';
     foreach($menu->plato as $plato){
         if($plato['tipo']=='tacos'){
             echo '<div class="cuadro_verde">';
             echo '<b>'.$plato->nombre.'</b>  ------------------------------  <b>'.$plato->precio.'</b><br>';
-            echo $plato->descripcion;
-            echo $plato->calorias;
+            echo $plato->descripcion.'<br>';
+            echo $plato->calorias.' --> ';
             foreach($plato->ingredientes->item as $item) {
                 echo "<img class='alimentos' src=".$item." alt=''>";
             }
@@ -81,14 +81,14 @@
         }
     }
     echo '</div>';
-    echo '<div style="margin-left: 4%;" class="column-30">';
+    echo '<div class="column-30-margin">';
     echo '<h1>Los Especiales:</h1>';
     foreach($menu->plato as $plato){
         if($plato['tipo']=='los_especiales'){
             echo '<div class="cuadro_rojo">';
-            echo '<b>'.$plato->nombre.'</b>  ------------------------------  <b>'.$plato->precio.'</b><br>';
-            echo $plato->descripcion;
-            echo $plato->calorias;
+            echo '<b>'.$plato->nombre.'</b>  ---------------------------  <b>'.$plato->precio.'</b><br>';
+            echo $plato->descripcion.'<br>';
+            echo $plato->calorias.' --> ';
             foreach($plato->ingredientes->item as $item) {
                 echo "<img class='alimentos' src=".$item." alt=''>";
             }
@@ -101,10 +101,10 @@
         if($plato['tipo']=='combinados'){
             echo '<div class="cuadro_rojo">';
             echo '<b>'.$plato->nombre.'</b>  ------------------------------  <b>'.$plato->precio.'</b><br>';
-            echo $plato->descripcion;
-            echo $plato->calorias;
+            echo $plato->descripcion.'<br>';
+            echo $plato->calorias.' --> ';
             foreach($plato->ingredientes->item as $item) {
-                echo "<img class='alimentos' src=".$item." alt=''>";
+                echo '<b>'.$item.'</b>';
             }
             echo '</div>';
             echo '<br>';
@@ -112,5 +112,6 @@
     }
     echo '</div>';
 ?>
+
 </body>
 </html>
